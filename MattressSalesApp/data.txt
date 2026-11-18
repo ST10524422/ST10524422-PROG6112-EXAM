@@ -1,0 +1,3 @@
+Customer: Oratile | Product: Cozy Nights Monarch | Price: 400.0 | Total: 480,00
+Customer: Oratile | Product: Cozy Nights Monarch | Price: 400.0 | Total: 480,00
+Customer: Oratile | Product: Cozy Nights Monarch | Price: 1000.0 | Total: 1200,00
